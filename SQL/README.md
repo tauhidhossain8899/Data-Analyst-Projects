@@ -196,19 +196,19 @@ Supply-Chain-Inventory-Analytics
 
 ### Inventory Analysis
 
-![Inventory Analysis](Screenshots/inventory_analysis.png)
+![Inventory Analysis](Supply-Chain-Inventory-Analytics/Screenshots/inventory_analysis.png)
 
 ### Revenue Analysis
 
-![Revenue Analysis](Screenshots/revenue_analysis.png)
+![Revenue Analysis](Supply-Chain-Inventory-Analytics/Screenshots/revenue_analysis.png)
 
 ### Supplier Analysis
 
-![Supplier Analysis](Screenshots/supplier_analysis.png)
+![Supplier Analysis](Supply-Chain-Inventory-Analytics/Screenshots/supplier_analysis.png)
 
 ### Shipping Analysis
 
-![Shipping Analysis](Screenshots/shipping_analysis.png)
+![Shipping Analysis](Supply-Chain-Inventory-Analytics/Screenshots/shipping_analysis.png)
 
 ---
 
