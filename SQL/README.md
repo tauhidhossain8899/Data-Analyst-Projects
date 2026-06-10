@@ -246,10 +246,3 @@ Aspiring Data Analyst
 
 GitHub: https://github.com/tauhidhossain8899
 
----
-
-## Project Status
-
-✅ Completed
-
-Portfolio Project for Data Analyst Career Development
