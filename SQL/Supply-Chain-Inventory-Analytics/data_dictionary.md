@@ -91,10 +91,4 @@ This dataset was used to perform:
 5. Shipping & Logistics Analysis
 6. Advanced SQL Analysis using Window Functions and Ranking Functions
 
----
 
-## Author
-
-Tauhid Hossain
-
-Data Analyst Portfolio Project
