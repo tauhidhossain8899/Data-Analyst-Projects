@@ -16,7 +16,7 @@ GitHub Profile:
 https://github.com/tauhidhossain8899
 
 LinkedIn:
-(https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/)
+https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/
 
 ---
 
@@ -115,21 +115,43 @@ The following projects will be added to this portfolio:
 
 ---
 
-Repository Structure
+## Repository Structure
 
-SQL/
+```text
+SQL
 │
 ├── README.md
 │
-└── Supply-Chain-Inventory-Analytics/
-├── Dataset/
-├── Insights/
-├── Screenshots/
-├── SQL Scripts
-├── Executive Summary
-└── Project README
----
-
+└── Supply-Chain-Inventory-Analytics
+    │
+    ├── Dataset
+    │   └── supply_chain_data.csv
+    │
+    ├── Insights
+    │   ├── inventory_insights.md
+    │   ├── revenue_insights.md
+    │   ├── supplier_insights.md
+    │   ├── shipping_insights.md
+    │   └── advanced_sql_insights.md
+    │
+    ├── Screenshots
+    │   ├── inventory_analysis.png
+    │   ├── revenue_analysis.png
+    │   ├── supplier_analysis.png
+    │   └── shipping_analysis.png
+    │
+    ├── 01_database_exploration.sql
+    ├── 02_inventory_analysis.sql
+    ├── 03_revenue_analysis.sql
+    ├── 04_supplier_analysis.sql
+    ├── 05_shipping_analysis.sql
+    ├── 06_advanced_sql_analysis.sql
+    │
+    ├── data_dictionary.md
+    ├── executive_summary.md
+    ├── skills_used.md
+    └── README.md
+```
 ## Contact
 
 **Mohammad Tauhid Hossain**
