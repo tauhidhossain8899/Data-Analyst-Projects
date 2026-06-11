@@ -16,7 +16,7 @@ GitHub Profile:
 https://github.com/tauhidhossain8899
 
 LinkedIn:
-(Add your LinkedIn profile URL)
+(https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/)
 
 ---
 
@@ -115,7 +115,7 @@ The following projects will be added to this portfolio:
 
 ---
 
-## Repository Structure
+Repository Structure
 
 SQL/
 │
@@ -128,7 +128,6 @@ SQL/
 ├── SQL Scripts
 ├── Executive Summary
 └── Project README
-
 ---
 
 ## Contact
@@ -139,10 +138,10 @@ GitHub:
 https://github.com/tauhidhossain8899
 
 LinkedIn:
-(Add LinkedIn URL)
+(https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/)
 
 Email:
-(Add Email)
+(tauhidhossain8899@gmail.com)
 
 ---
 
