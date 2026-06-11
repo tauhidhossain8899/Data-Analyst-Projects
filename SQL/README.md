@@ -160,10 +160,10 @@ GitHub:
 https://github.com/tauhidhossain8899
 
 LinkedIn:
-(https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/)
+https://www.linkedin.com/in/mohammad-tauhid-hossain-8a3294372/
 
 Email:
-(tauhidhossain8899@gmail.com)
+tauhidhossain8899@gmail.com
 
 ---
 
